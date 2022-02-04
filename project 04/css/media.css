@@ -1,0 +1,45 @@
+
+/* Mobile & Tablet Rules  */
+@media (max-width: 767px) { 
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    } 
+    
+    .dropdown-menu::after {
+        top: 184px;
+    }
+
+    .subscribe .form-control {
+        width: 250px;
+        margin: 20px auto;
+    }
+
+    .navbar-fixed-top .navbar-collapse, 
+    .navbar-fixed-bottom .navbar-collapse {
+        max-height: none;
+    }
+}
+
+
+/* Small Screen Rules*/
+@media (min-width: 768px)  and (max-width: 991px) { 
+  
+
+}
+
+
+/* Medium Screen Rules*/
+@media (min-width: 992px) and (max-width: 1199px) { 
+    
+
+}
+
+/* Large Screen Rules*/
+@media (min-width: 1200px) { 
+    
+
+}
+
+

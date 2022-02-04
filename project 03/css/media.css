@@ -1,0 +1,47 @@
+
+/* Mobile & Tablet Rules  */
+@media (max-width: 767px) {
+
+   
+}
+
+/* Mobile & Tablet Rules & Small Screen Rules*/
+
+@media (max-width: 991px) {
+
+    .text-center-xs {
+        text-align: center;
+    }
+
+    .head-border-center-xs::after {
+        margin: 35px auto;
+    }
+
+    /* .pull-left-xs {
+        float: left;
+    } */
+ }
+
+
+/* Small Screen Rules*/
+@media (min-width: 768px)  and (max-width: 991px) { 
+    
+
+}
+
+
+/* Medium Screen Rules*/
+@media (min-width: 992px) and (max-width: 1199px) { 
+    
+
+}
+
+/* Large Screen Rules*/
+@media (min-width: 1200px) { 
+    
+
+}
+
+
+
+

@@ -1,0 +1,67 @@
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 991px) and (max-width: 1200px) { 
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 17px;
+    }
+}
+@media (min-width: 991px) { 
+    .last-md {
+        position: relative;
+        left: 50%;
+        }
+}
+@media (max-width: 768px) { 
+    /* Start The typed  */
+
+.the-typed {
+    padding: 70px 0;
+}
+.the-typed .typedone .typeme-one {
+    font-size: 35px;
+}
+
+.the-typed .typedtwo .typeme-two {
+    font-size: 25px;
+}
+/* End The typed  */
+
+.last-sm {
+    position: relative;
+    left: 60%;
+    }
+
+    header .the-down {
+        left: 45%;
+    }
+}
+
+@media (max-width: 350px) { 
+
+    .testimonials .testi-box img {
+        width: 275px;
+        height: 350px;
+    }
+    
+    footer .social-media {
+        text-align: left;
+    }
+
+}
+
+@media (max-width: 300px) {
+    
+    .testimonials .testi-box img {
+        width: 250px;
+        height: 325px;
+    }
+
+    footer .social-media a {
+        margin-right: 5px;
+    }
+    footer .social-media a:last-of-type{
+        display: block;
+        margin-top: 12px;
+    }
+}
+
+

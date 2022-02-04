@@ -1,0 +1,7 @@
+Host : ipureltd.com
+
+user : u211555103
+
+password : SOHAIBkhamsat123
+
+port : 21
